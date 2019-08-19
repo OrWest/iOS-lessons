@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Валерия</string>
+		<key>places</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Водопады Игуасу</string>
+				<key>imageName</key>
+				<string>EtyM06kHlq8</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Радужный мост, Сеул</string>
+				<key>imageName</key>
+				<string>RFum1l6daaY</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Лестница Селарона, Рио-де-Жанейро</string>
+				<key>imageName</key>
+				<string>A9dcQOzp2wo-2</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Дом Бальо, Барселона</string>
+				<key>imageName</key>
+				<string>QowzL0r3NrU</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Район Икебукуро, Токио</string>
+				<key>imageName</key>
+				<string>mzLWFL8OqZ8</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Оля</string>
+		<key>places</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Амальфи, Италия</string>
+				<key>imageName</key>
+				<string>7W6jpRBqQy8</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Сейшелы</string>
+				<key>imageName</key>
+				<string>Nre187hemgg</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Рио Де Жанейро</string>
+				<key>imageName</key>
+				<string>qEiGyiv4Y98</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Исландия</string>
+				<key>imageName</key>
+				<string>HyJE7mI_mHA</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Новая Зеландия</string>
+				<key>imageName</key>
+				<string>6cMDyOK5JTk</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Лондон</string>
+				<key>imageName</key>
+				<string>SaZvP1cipUQ</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Байкал</string>
+				<key>imageName</key>
+				<string>qwzw4mCiBoA</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Анна</string>
+		<key>places</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Карлов мост, Прага</string>
+				<key>imageName</key>
+				<string>gJP8XZ1Ms08</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Собор Парижской Богоматери, Париж</string>
+				<key>imageName</key>
+				<string>AOxnNsQUV14</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Остров Гамильтон, Австралия</string>
+				<key>imageName</key>
+				<string>INc6Xq6efQ0</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Мраморные пещеры, Патагония</string>
+				<key>imageName</key>
+				<string>3N37WBr8Xk0</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Каньон Антилопы, Аризона</string>
+				<key>imageName</key>
+				<string>ePUZG-LYga8</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
